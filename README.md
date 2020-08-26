@@ -1,2 +1,3 @@
-# -Fast-Pace-Transfer-August-2020
-Fast pace data
+Name: Ephraim Mawutor Adehenu
+Position: System Administrator
+Candidate Code: 20200808
